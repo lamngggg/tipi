@@ -85,3 +85,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/80292
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Suport Kitkat" tvg-id="MetroTV.id" tvg-name="metro tv",Metro TV
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Suport Kitkat" tvg-id="",tvOne (Dens)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://www.dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
